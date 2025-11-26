@@ -1,0 +1,14 @@
+openai
+python-dotenv
+PyPDF2
+pdfplumber
+python-docx
+pytesseract
+pillow
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+imapclient
+beautifulsoup4
+lxml
