@@ -12,6 +12,7 @@ Create an automated workflow that:
 5. (Optional) Sends notifications
 
 ## 🧩 System Architecture
+<img width="512" height="768" alt="ProfileExtractor" src="https://github.com/user-attachments/assets/97162512-d146-4556-858c-816385d3a469" />
 
 ## 🔍 Detailed Components
 ### 1. Email Inbox
@@ -100,3 +101,11 @@ Identify duplicates using:
 * Same phone number
 * Similar name (fuzzy matching)
 * Similar resume content (embedding similarity)
+
+### ⭐ Simple Web UI for Recruiters
+
+Add a small UI dashboard where HR can:
+* View processed candidates in a clean table
+* Search/filter by skills, experience, or match score
+* View resume preview and Drive link
+* Mark candidates as shortlisted/rejected
